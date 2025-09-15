@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **sairam457/sairam457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
+# Hi there 
 
 ## 🚀 Languages I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
